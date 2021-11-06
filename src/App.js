@@ -137,10 +137,7 @@ class App extends React.Component {
             </div>
             <div className="mx-5 mt-20">
               <span className="text-white text-opacity-70 text-xs text-center sm:max-w-xs">
-                Arka plandaki görüntü canlı yayın olup
-                <b>kocaeliyiseyret.com</b>
-                'dan alınmıştır. Eğitim amaçlı kullanım söz konusu olup hakları
-                <b>Kocaeli BB</b>'ye aittir.
+                Arka plandaki görüntü canlı yayın olup <b>kocaeliyiseyret.com</b>'dan alınmıştır. Eğitim amaçlı kullanım söz konusu olup hakları <b>Kocaeli BB</b>'ye aittir.
               </span>
             </div>
           </div>
